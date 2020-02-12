@@ -1,0 +1,36 @@
+load dog.jpg
+sepia
+save dog-sepia.jpg
+load dog.jpg
+greyscale
+save dog-greyscale.jpg
+load dog.jpg
+sharpen
+save dog-sharpen.jpg
+load dog.jpg
+blur
+save dog-blur.jpg
+load dog.jpg
+dither
+save dog-dither.jpg
+load studio.jpg
+sepia
+save studio-sepia.jpg
+load studio.jpg
+greyscale
+save studio-greyscale.jpg
+load studio.jpg
+sharpen
+save studio-sharpen.jpg
+load studio.jpg
+blur
+save studio-blur.jpg
+load studio.jpg
+dither
+save studio-dither.jpg
+load dog.jpg
+mosaic 10000
+save dog-mosaic.jpg
+load studio.jpg
+mosaic 1000
+save studio-mosaic.jpg

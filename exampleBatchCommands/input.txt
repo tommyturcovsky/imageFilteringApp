@@ -1,0 +1,3 @@
+load dog.jpg
+sepia
+save dog-sepiaImageDriver.jpg

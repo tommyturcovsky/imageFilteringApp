@@ -1,0 +1,19 @@
+# TO LOAD AN IMAGE
+load example.(jpg, png, etc.)
+
+# TO SAVE AN IMAGE
+(Must create/generate an Image first)
+save affected-example.(jpg, png, etc.)
+
+# FILTER COMMANDS
+(Must have an Image loaded for this to work)
+blur
+sharpen
+greyscale
+sepia
+dither
+mosaic (Enter Number of Seeds)
+
+# GENERATE IMAGE COMMANDS
+rainbow (Enter Number Value for Width)
+checkerboard (Enter Individual Checker Square Area)

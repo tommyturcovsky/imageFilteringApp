@@ -1,6 +1,8 @@
-README.md
+# Image Filtering Application
 
-"How to run"
+## About the Program
+
+## How To Run
 
 To run this program with a script you need a text file named "input.txt". This file must be in the same folder as the jar file. In the text file ("input.txt") you will have a list of commands similar to the example below. Or you can run the jar file with the "-interactive" command to open the GUI for the program.
 
@@ -44,7 +46,3 @@ We added an interface to our Model "Image.java" so that it can implement the obs
 The model of out MVC is out "Image.java" class and implements the “ImageInterface.java”. Image is responsible for altering all the images. The controller of our program is "ImageController.java" class and implements "Features.java" interface. The view of our program is "View.java" and implements "ViewInterface.java" as its interface.
 
 *This program will only alter image files such as .jpg or .png
-
-"Photo Citations"
-
-The two photos we are submitting that can be used as input on this assignment are from Tommy T. and he has given permission to use them for this assignment. They are dog.jpg and studio.jpg.
